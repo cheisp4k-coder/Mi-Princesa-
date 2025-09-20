@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Princesa</title>
+  <style>
+    body {
+      background-color: #fff0f5;
+      font-family: 'Georgia', serif;
+      text-align: center;
+      padding: 60px;
+      color: #5c2a4d;
+    }
+    h1 {
+      font-size: 3.5em;
+      color: #d63384;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.3em;
+      max-width: 700px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    .signature {
+      margin-top: 40px;
+      font-style: italic;
+      font-size: 1.1em;
+    }
+  </style>
+</head>
+<body>
+  <h1>MI Princesa </h1>
+  <p>
+    No hay palabra que capture lo que eres para mí. Eres calma en medio del caos, luz en mis días más grises, y fuerza cuando me siento débil.  
+    <br><br>
+    Cada gesto tuyo, cada mirada, cada palabra que me regalas, me recuerda que el amor verdadero no se grita: se construye, se cuida, se honra.  
+    <br><br>
+    Esta página es solo un reflejo mínimo de lo que siento. Porque si pudiera, llenaría el cielo de estrellas con tu nombre, y cada una contaría una historia de lo que hemos vivido y lo que aún nos espera.  
+    <br><br>
+    Gracias por existir. Gracias por ser tú.  
+  </p>
+  <div class="signature">
+    Con todo mi amor,<br>
+    Mateo
+  </div>
+</body>
+</html>
